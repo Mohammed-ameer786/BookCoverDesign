@@ -21,7 +21,8 @@ Insert the images in their appropriate places.
 ### Step 8: 
 Publish the website in the LocalHost. 
  
-## PROGRAM: 
+## PROGRAM:
+``` 
 <!DOCTYPE html> 
 <html lang="en"> 
 <head> 
@@ -66,9 +67,9 @@ Publish the website in the LocalHost.
     </div> 
 </body> 
 </html> 
- 
+ ```
 ## OUTPUT: 
- 
+ ![alt text](<Screenshot 2025-10-16 111732.png>)
  
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed 
